@@ -503,6 +503,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 |--------|-------------|----------|
 | [AltoRank](https://github.com/AltoRank/altorank) | SEO audits, Search Console, keyword research and drafts into a review queue | TypeScript |
 | [BulkPublish MCP](https://github.com/azeemkafridi/bulkpublish-api) | AI-agent API and MCP server for multi-platform social publishing and analytics | TypeScript |
+| [Datacircle](https://datacircle.dev/faq) | Find the best GTM APIs, ranked from our benchmark, no key | Remote |
 | [DataForSEO MCP](https://github.com/dataforseo/mcp-server-typescript) | Official DataForSEO server for SERP, keyword and backlink data | TypeScript |
 | [FalcoScan MCP](https://github.com/nyachisn/falcoscan-mcp) | Look up AI products, markets, rivals and shutdowns (FalcoScan API key) | JavaScript |
 | [Google Analytics MCP](https://github.com/surendranb/google-analytics-mcp) | GA4 data for AI agents | Python |
