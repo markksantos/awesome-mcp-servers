@@ -232,6 +232,7 @@ Where that JSON lives, and which extra keys it takes, differs per client -- chec
 | [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp) | Google Calendar management | TypeScript |
 | [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp) | Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms and Tasks in one server | Python |
 | [iMCP](https://github.com/mattt/iMCP) | Exposes macOS Messages, Contacts, Calendar and Reminders to agents | Swift |
+| [Kanvas](https://github.com/open-kanvas/kanvas) | Open-source screen in any browser that agents draw tables and diagrams on | TypeScript |
 | [Make MCP](https://github.com/integromat/make-mcp-server) | Official Make server turning scenarios into callable agent tools | TypeScript |
 | [Microsoft 365 MCP](https://github.com/Softeria/ms-365-mcp-server) | Full M365 suite (Outlook, OneDrive, Teams, Excel) | TypeScript |
 | [MindMap AI](https://github.com/MindMap-AI/mcp) | Create and edit visual mind maps from MCP-compatible AI assistants | TypeScript |
